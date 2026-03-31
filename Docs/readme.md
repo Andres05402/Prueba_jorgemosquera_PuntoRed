@@ -82,7 +82,7 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 - Response Metrics → agregados por código de respuesta.
 
 ## 📊 Modelo Entidad-Relación
-![Modelo ERD](Docs/Img/modelo entidad relac.png)
+![Modelo ERD](Docs/Img/Modelo entidad relac.png)
 
 📌 Consideraciones Generales
 - Tablas gestionadas en Unity Catalog para trazabilidad y seguridad.

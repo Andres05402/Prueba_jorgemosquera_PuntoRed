@@ -1,0 +1,15 @@
+# Core Spark
+pyspark==3.5.0
+
+# Delta Lake para ACID y versionamiento
+delta-spark==3.1.0
+
+# Manipulación y validación de datos
+pandas==2.2.1
+numpy==1.26.4
+
+# Opcional: para visualizaciones y chequeos adicionales
+matplotlib==3.8.2
+
+# Opcional: para integraciones SQL/ORM si las usas
+sqlalchemy==2.0.25

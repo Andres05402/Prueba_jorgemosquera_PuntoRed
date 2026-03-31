@@ -1,5 +1,3 @@
-Perfecto, Jorge. Ahora que me muestras la estructura real de tu workspace (los notebooks organizados como 01_Ext_Cap_Bronze, 02_Trsf_Cap_Silver, 03_Trsf_Cap_Gold, 04_Calidad_Observabilidad), te propongo ajustar el README para que refleje esa organización y quede alineado con tu práctica en Databricks. Aquí tienes una versión mejorada:
-
 📘 README – Pipeline de Datos (Bronze, Silver, Gold y Calidad)
 🧪 Prueba Técnica – Ingeniero de Datos
 - Empresa: PUNTORED
@@ -23,6 +21,9 @@ Cada notebook corresponde a una capa de la arquitectura Medallion y contiene las
 - Silver → Datos limpios, normalizados y enriquecidos.
 - Gold → Datos curados y métricas analíticas listas para negocio.
 - Calidad → Validaciones de integridad y observabilidad continua.
+
+## 🏛️ Arquitectura Medallion
+![Arquitectura medallion](Docs/Img/Arquitectura medallion prueba jorge mosquera.png)
 
 🔹 01_Ext_Cap_Bronze – Datos Crudos
 - Descripción: Almacena los datos tal como llegan (JSONL).
@@ -80,6 +81,8 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 - User Metrics → agregados por usuario.
 - Response Metrics → agregados por código de respuesta.
 
+## 📊 Modelo Entidad-Relación
+![Modelo ERD](Docs/Img/Modelo entidad relac.png)
 
 📌 Consideraciones Generales
 - Tablas gestionadas en Unity Catalog para trazabilidad y seguridad.

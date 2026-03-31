@@ -1,5 +1,3 @@
-Perfecto, Jorge. Ahora que me muestras la estructura real de tu workspace (los notebooks organizados como 01_Ext_Cap_Bronze, 02_Trsf_Cap_Silver, 03_Trsf_Cap_Gold, 04_Calidad_Observabilidad), te propongo ajustar el README para que refleje esa organización y quede alineado con tu práctica en Databricks. Aquí tienes una versión mejorada:
-
 📘 README – Pipeline de Datos (Bronze, Silver, Gold y Calidad)
 🧪 Prueba Técnica – Ingeniero de Datos
 - Empresa: PUNTORED

@@ -82,7 +82,7 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 - Response Metrics → agregados por código de respuesta.
 
 ## 📊 Modelo Entidad-Relación
-![Modelo ERD](Prueba_jorgemosquera_PuntoRed/docs/img/Modelo_entidad_relac.png)
+![Modelo ERD](docs/img/Modelo_entidad_relac.png)
 
 
 

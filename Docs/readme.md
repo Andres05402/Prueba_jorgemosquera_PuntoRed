@@ -83,6 +83,8 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 
 ## 📊 Modelo Entidad-Relación
 ![Modelo ERD](docs/img/Modelo_entidad_relac.png)
+Prueba_jorgemosquera_PuntoRed/docs/img/Modelo_entidad_relac.png
+
 
 📌 Consideraciones Generales
 - Tablas gestionadas en Unity Catalog para trazabilidad y seguridad.

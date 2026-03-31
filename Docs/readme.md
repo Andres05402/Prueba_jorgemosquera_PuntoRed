@@ -23,7 +23,7 @@ Cada notebook corresponde a una capa de la arquitectura Medallion y contiene las
 - Calidad → Validaciones de integridad y observabilidad continua.
 
 ## 🏛️ Arquitectura Medallion
-![Arquitectura Medallion](docs/img/arquitectura_medallion.png)
+![Arquitectura medallion](Docs/Img/Arquitectura medallion prueba jorge mosquera.png)
 
 🔹 01_Ext_Cap_Bronze – Datos Crudos
 - Descripción: Almacena los datos tal como llegan (JSONL).
@@ -82,7 +82,7 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 - Response Metrics → agregados por código de respuesta.
 
 ## 📊 Modelo Entidad-Relación
-![Modelo ERD](docs/img/modelo_erd.png)
+![Modelo ERD](Docs/Img/modelo entidad relac.png)
 
 📌 Consideraciones Generales
 - Tablas gestionadas en Unity Catalog para trazabilidad y seguridad.

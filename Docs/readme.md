@@ -22,7 +22,8 @@ Cada notebook corresponde a una capa de la arquitectura Medallion y contiene las
 - Gold → Datos curados y métricas analíticas listas para negocio.
 - Calidad → Validaciones de integridad y observabilidad continua.
 
-Docs/Img/Arquitectura medallion prueba jorge mosquera.png
+## 🏛️ Arquitectura Medallion
+![Arquitectura Medallion](docs/img/arquitectura_medallion.png)
 
 🔹 01_Ext_Cap_Bronze – Datos Crudos
 - Descripción: Almacena los datos tal como llegan (JSONL).
@@ -80,6 +81,8 @@ SELECT * FROM jorge_catalog.transacciones.gold_quality_logs;
 - User Metrics → agregados por usuario.
 - Response Metrics → agregados por código de respuesta.
 
+## 📊 Modelo Entidad-Relación
+![Modelo ERD](docs/img/modelo_erd.png)
 
 📌 Consideraciones Generales
 - Tablas gestionadas en Unity Catalog para trazabilidad y seguridad.
